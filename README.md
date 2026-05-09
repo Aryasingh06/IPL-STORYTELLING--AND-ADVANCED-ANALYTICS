@@ -14,6 +14,16 @@ and visualization techniques.The analysis focuses on team performance, player co
 - matches.csv → Match-level information
 - deliveries.csv → Ball-by-ball data.
 
+  ## Project screenshots
+  # WINNER TEAMS TOP 5
+  ![TOP5_Teams_with_mostwin](screenshot/Top5_Teams_with_MostWins.png)
+  # Top 5 run scrorer
+  ![TOP5_run_scorers](screenshot/Top5_run_scorers.png))
+  # toss impact
+   ![Toss_impact](screenshot/Toss_impact.png)
+  # highest wicket taker
+   ![highest_wickettaker](screenshot/highest_wickettaker.png)
+
   ## Key Insights
 - Mumbai Indians has the highest wins, showing long-term consistency.
 - Suresh Raina is among top run scorers → reliable batsman
