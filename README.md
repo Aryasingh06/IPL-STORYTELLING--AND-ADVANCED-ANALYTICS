@@ -44,7 +44,7 @@ Performance optimization systems
 Predictive modeling frameworks
 
 ## Images
--- BASIC EDA
+
 ## TOP 5 PLAYER OF THE MATCH AWARDS
 ![IPL PROJECT](screenshot/Top5_players_of_the_match_award.png)
 ## TOP5_TEAMS_WITH_MOSTWINS
@@ -54,7 +54,7 @@ Predictive modeling frameworks
 ## Top5_wicket_takers
 ![IPL PROJECT](screenshot/Top5_wicket_takers.png)
 ## Toss_win_vs_match_win
-![IPL PROJECT](screenshot/Toss_win-vs-match_win.png)
+![IPL PROJECT](screenshot/Toss_winvsmatch_win.png)
 ## MATCHES_PERSEASON_TREND
 ![IPL PROJECT](screenshot/matchesperseasonttrend.png)
 ## topvenues in ipl
