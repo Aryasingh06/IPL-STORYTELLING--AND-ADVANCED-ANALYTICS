@@ -46,19 +46,19 @@ Predictive modeling frameworks
 ## Images
 -- BASIC EDA
 ## TOP 5 PLAYER OF THE MATCH AWARDS
-![IPL PROJECT](screenshot/TOP5_PLAYER_MATCH_AWARD.png)
+![IPL PROJECT](screenshot/TOP5_players_of_the_match_award.png)
 ## TOP5_TEAMS_WITH_MOSTWINS
-![IPL PROJECT](screenshot/top5_teams_with_Most_win.png)
+![IPL PROJECT](screenshot/Top5_Teams_with_Mostwin.png)
 ## TOP5_RUNSCORERS
-![IPL PROJECT](screenshot/top5_runscorers.png)
+![IPL PROJECT](screenshot/Top5_runscorers.png)
 ## Top5_wicket_takers
-![IPL PROJECT](screenshot/top5_wicket_taker.png)
+![IPL PROJECT](screenshot/Top5_wicket_takers.png)
 ## Toss_win_vs_match_win
 ![IPL PROJECT](screenshot/Toss_win_vs_match_win.png)
 ## MATCHES_PERSEASON_TREND
-![IPL PROJECT](screenshot/Matches_per_season_trend.png)
+![IPL PROJECT](screenshot/matchesperseasontrend.png)
 ## topvenues in ipl
-![IPL PROJECT](screenshot/top_venues_in_ipl.png)
+![IPL PROJECT](screenshot/topvenuesinipl.png)
 ## percentage_of_toss_vs_match_wins
 ![IPL PROJECT](screenshot/percentage_of_toss_vs_match_win.png)
 
